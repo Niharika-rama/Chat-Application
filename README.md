@@ -8,4 +8,4 @@ Chat Application
 
 
 
-Technology stack : Uses React, Redux
+Technology stack : React, Redux
